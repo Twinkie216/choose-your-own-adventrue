@@ -1,0 +1,25 @@
+.container {
+    max-width: 1012px;
+    margin: auto;
+    padding: 0 1em;
+}
+
+.get-started {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.get-started a {
+    text-decoration: none;
+    color: black;
+    background-color: #eaeaea;
+    padding: .5em;
+    border: 1px solid black;
+    border-radius: 7px;
+    transition: ease all .3s;
+}
+
+.get-started a:hover {
+    background-color: #b8b4b4;
+}
