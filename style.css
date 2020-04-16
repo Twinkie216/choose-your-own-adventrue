@@ -4,13 +4,19 @@
     padding: 0 1em;
 }
 
+.controls {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
 .get-started {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.get-started a {
+a {
     text-decoration: none;
     color: black;
     background-color: #eaeaea;
@@ -20,6 +26,6 @@
     transition: ease all .3s;
 }
 
-.get-started a:hover {
+a:hover {
     background-color: #b8b4b4;
 }
