@@ -38,6 +38,10 @@ a:hover {
     color: #f7f7f7;
 }
 
+.story hr {
+    border: 1px solid white;
+}
+
 .choices {
     display: flex;
     flex-flow: column nowrap;
