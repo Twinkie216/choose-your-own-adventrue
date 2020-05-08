@@ -58,3 +58,7 @@ a:hover {
     background-color: #b64430;
     color: #f7f7f7;
 }
+
+header {
+    text-align: center;
+}
