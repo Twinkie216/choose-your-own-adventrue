@@ -31,7 +31,7 @@ a:hover {
 }
 
 .story {
-    background-color: #DA9E35;
+    background-color: #DE98B2;
     padding: .1em 1em;
     margin: 1em 0 0 0;
     border-radius: 7px 7px 0 0;
@@ -55,7 +55,7 @@ a:hover {
 }
 
 .choices a:hover {
-    background-color: #b64430;
+    background-color: #76018d;
     color: #f7f7f7;
 }
 
